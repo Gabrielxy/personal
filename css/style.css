@@ -179,3 +179,9 @@ a:hover {
     border-radius: 20px;
     text-decoration: none;
 }
+
+.obs {
+    color: #11999E;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
